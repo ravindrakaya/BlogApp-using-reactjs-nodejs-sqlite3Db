@@ -1,0 +1,108 @@
+.registration-container {
+    background-image: url("https://img.freepik.com/free-photo/turquoise-colored-pen-mouse-fern-leaves-push-pins-wooden-surface_23-2147916271.jpg?w=996&t=st=1702633647~exp=1702634247~hmac=963c0cce161e2cd6fe8bc120996699603294f31a8ff1e1f80ea62610f5c1e8ae");
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    font-family: "Sans-serif";
+  }
+  .blog-container {
+    height: 8vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background: url("https://assets.ccbp.in/frontend/react-js/books-blog-bg.png");
+    background-size: cover;
+  }
+  .blog-title {
+    font-family: "Roboto";
+    color: white;
+    font-size: 16px;
+  }
+  
+  .register-heading {
+    color: #040a06;
+  }
+  .form-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  .input-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin-bottom: 8px;
+  }
+  .input-label {
+    color: black;
+    font-weight: 500;
+    margin-bottom: 2px;
+  }
+  .input-field {
+    height: 30px;
+    width: 300px;
+    border: none;
+    border-radius: 5px;
+    background-color: #ffffff;
+    outline: none;
+    padding: 10px;
+  }
+  .checkbox-container {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+  }
+  .checkbox-field {
+    height: 20px;
+    width: 20px;
+    margin-right: 10px;
+  }
+  .checkbox-label {
+    margin-top: 2px;
+  }
+  .span-el {
+    color: #ff0b37;
+    font-weight: 600;
+  }
+  .register-btn {
+    height: 30px;
+    width: 300px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: #0b69ff;
+    color: #ffffff;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  .button-container {
+    align-self: center;
+  }
+  .error-msg {
+    color: #ff0b37;
+    margin: 0px;
+    margin-top: 2px;
+  }
+  .login-btn1 {
+    height: 30px;
+    width: 300px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: #07af0a;
+    color: #ffffff;
+    border-radius: 5px;
+    margin-top: 0px;
+  }
+  .link-element1 {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+  }

@@ -1,0 +1,115 @@
+.home-bg-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: "Roboto";
+  }
+  .blog-top-container {
+    padding-left: 30px;
+    padding-right: 30px;
+    height: 6vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: url("https://assets.ccbp.in/frontend/react-js/books-blog-bg.png");
+    background-size: cover;
+  }
+  .blog-title {
+    font-family: "Roboto";
+    color: white;
+    font-size: 16px;
+  }
+  .blog-bottom-container {
+    background: url("https://assets.ccbp.in/frontend/react-js/books-blog-bg.png");
+    height: 6vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .logout-btn {
+    background-color: #0b69ff;
+    color: #ffffff;
+    border: none;
+    outline: none;
+    height: 30px;
+    width: 80px;
+    border-radius: 5px;
+    font-weight: 500;
+  }
+  .home-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://img.freepik.com/free-photo/plain-smooth-green-wall-texture_53876-129746.jpg?w=996&t=st=1702650686~exp=1702651286~hmac=545f011413924041748fe4d909927e8d188dba2027c2c61ba7d2cd1f3a43abc6");
+    background-size: cover;
+  }
+  .blog-home-heading {
+    color: #ffffff;
+  }
+  .logo-icon {
+    height: 30px;
+    width: 30px;
+    margin-right: 20px;
+  }
+  .logo-container {
+    display: flex;
+    align-items: center;
+  }
+  .logout-link {
+    text-decoration: none;
+  }
+  .footer-icon {
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+    margin: 20px;
+  }
+  .foot-para {
+    color: #ffffff;
+  }
+  .card-container {
+    border-radius: 10px;
+    height: 300px;
+    width: 300px;
+    background-color: #e6f6ff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 20px;
+  
+    padding: 10px;
+  }
+  .card-img {
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+  }
+  .card-btn {
+    border: none;
+    outline: none;
+    background-color: transparent;
+    color: #475569;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .card-heading {
+    color: #1e293b;
+  }
+  .card-para {
+    color: #64748b;
+  }
+  .cards-bg-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .blog-home-para {
+    color: #ffffff;
+  }
