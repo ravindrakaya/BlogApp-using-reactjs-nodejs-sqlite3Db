@@ -2,8 +2,6 @@ const express = require("express");
 const path = require("path");
 const bcrypt = require("bcrypt");
 
-
-
 const { open } = require("sqlite");
 const sqlite3 = require("sqlite3");
 
